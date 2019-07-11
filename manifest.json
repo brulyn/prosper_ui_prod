@@ -1,0 +1,13 @@
+{
+    "short_name": "Inv Sys",
+    "name": "Inventory Management System",
+    "icons": [{
+        "src": "./assets/img/logo.svg",
+        "sizes": "100x100",
+        "type": "image/svg"
+    }],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
